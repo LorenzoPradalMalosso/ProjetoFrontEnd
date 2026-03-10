@@ -1,0 +1,10 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+}
+#tempo{
+    text-shadow: 1px 1px 15px gray;
+    font-size: 120px;
+    justify-self: center;
+    margin-top: 20%;
+}
