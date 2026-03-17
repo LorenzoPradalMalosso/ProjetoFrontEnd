@@ -41,7 +41,7 @@ Este repositório contém três projetos front-end em diferentes níveis para a 
   - Adicionar alerta sonoro ao chegar em zero
   - Adicionar aviso visual ao finalizar
 
-## Projeto Difícil (Calculadora)
+## Calculadora
 - **Funcionalidades:**
   - Calculadora com operações básicas: `+`, `-`, `*`, `/`
   - Botões numéricos e operadores
