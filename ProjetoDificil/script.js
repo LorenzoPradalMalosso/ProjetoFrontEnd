@@ -7,6 +7,11 @@ function adicionar(valor) {
     tela.value += valor;
 }
 
+// remove o último caracter que está na expressão
+function apagar() {
+    tela.value = tela.value.slice(0, -1);
+}
+
 // limpa completamente o visor, zerando a expressão
 function limpar() {
     tela.value = '';

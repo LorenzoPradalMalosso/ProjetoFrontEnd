@@ -20,7 +20,7 @@ Este diretório contém um pequeno projeto front-end que implementa uma calculad
 
 1. Abra `ProjetoDificil/index.html` em um navegador.
 2. Clique nos botões numéricos e de operação para construir uma expressão matemática.
-3. Pressione `=` para calcular o resultado ou `C` para limpar.
+3. Pressione `=` para calcular o resultado, `C` para limpar ou `DEL` para tirar o último caracter da expressão.
 
 ## Tecnologias
 
