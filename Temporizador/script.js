@@ -39,7 +39,8 @@ function iniciar(){
     tempo.innerText = formatarTempo(tempoRestante);
 
     if (tempoRestante <= 0){
-        parar();
+      alert("Tempo esgotado!")
+      parar();
      }
   },1000);
 };
